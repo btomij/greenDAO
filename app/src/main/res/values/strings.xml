@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GreenDao001</string>
+    <string name="btnSure">SURE</string>
+    <string name="btnList">LIST</string>
+    <string name="enter_new_note">Enter new note</string>
+    <string name="btnAdd">Add</string>
+    <string name="click_to_remove">Click a note to remove it</string>
+</resources>
